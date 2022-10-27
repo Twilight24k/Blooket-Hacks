@@ -1,5 +1,5 @@
-#WARNING
-THis is a work in progress!
+# WARNING
+This is a work in progress!
 
 
 # Blooket Hacks
